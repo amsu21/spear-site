@@ -24,7 +24,7 @@
  *        16.  Contact           *
  *        17.  Footer            *
  ================================*/
-@import url("https://fonts.googleapis.com/css?family=Roboto:400,500|Rubik:400,500,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap");
 h1 {
   font-size: 42px;
 }
@@ -191,7 +191,7 @@ a.text-custom:hover {
 }
 
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: "Playfair Display", serif;
   overflow-x: hidden !important;
   font-size: 15px;
   color: #535353;
@@ -209,7 +209,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: "Rubik", sans-serif;
+  font-family: "Playfair Display", serif;
   line-height: 1.5;
   font-weight: 600;
 }
@@ -786,7 +786,7 @@ button:not(:disabled) {
   text-transform: uppercase;
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
-  font-family: "Rubik", sans-serif;
+  font-family: "Playfair Display", serif;
 }
 
 .navbar-custom .navbar-nav li a:hover, .navbar-custom .navbar-nav li a:active {
