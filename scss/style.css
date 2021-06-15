@@ -772,7 +772,6 @@ button:not(:disabled) {
   font-size: 20px;
   text-transform: uppercase;
   letter-spacing: 2px;
-  border: 1px solid;
   padding: 0px 5px;
 }
 
